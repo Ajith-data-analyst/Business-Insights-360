@@ -1,4 +1,5 @@
-# 🌟 Interactive Power BI Dashboard
+# 🌟 Interactive Power BI Dashboard - Business-Insights-360
+
 
 An **executive-ready Power BI report** delivering powerful insights through interactive visualizations, KPIs, and drill-downs.  
 Designed to turn raw data into **actionable intelligence** ✨
@@ -70,7 +71,7 @@ Please respect data privacy & organizational compliance.
 
 ## 👨‍💻 Author
 
-Crafted with ❤️ and data storytelling skills by **[Your Name](https://ajith-data-analyst.github.io/Portfolio/home.html)**  
+Crafted with ❤️ and data storytelling skills by **[AJITH RAMESH](https://ajith-data-analyst.github.io/Portfolio/home.html)**  
 
 
 
