@@ -47,7 +47,7 @@ This dashboard brings clarity with:
 
 ## 🤝 Collaboration
 
-- 📂 Source `[.Pbix](https://drive.google.com/file/d/1Ai9u-Z6lGluPW-NHSjFN4tBcNOKLtHXa/view?usp=drive_link)` file available in `src/`
+- 📂 Source `.Pbix` file available in `src/` - [Pbix file](https://drive.google.com/file/d/1Ai9u-Z6lGluPW-NHSjFN4tBcNOKLtHXa/view?usp=drive_link)
 - 🛠️ ETL & transformation steps documented in `/docs`.  
 - 🌈 Style guide ensures **consistent visuals & accessibility**.  
 - Contributions welcome — open a PR with improvements or ideas.  
