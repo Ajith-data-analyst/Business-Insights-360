@@ -30,7 +30,7 @@ This dashboard brings clarity with:
 | Component        | Details                                                  |
 |------------------|----------------------------------------------------------|
 | **Tool**         | Power BI                                                 |
-| **Source**       | [Your Data Source(s) – SQL / Excel / CSV / API]          |
+| **Source**       | [datasets](https://drive.google.com/drive/folders/1Wlr4IQ2pHFuXERYyFYWDrjTL9NLhhrT3?usp=drive_link)          |
 | **Refresh Cycle**| Daily / Weekly / Monthly                                 |
 | **Data Model**   | Star schema with DAX measures for accuracy & performance |
 
@@ -38,7 +38,7 @@ This dashboard brings clarity with:
 
 ## 🚀 How to Use
 
-1. Click the **Live Dashboard** link above.  
+1. Click the **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU0M2Q5YTQtM2ZjNS00NmU0LTg1MzMtNzBhNjYxMzMzZDk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)  ** link above.  
 2. Use filters & slicers to customize your view.  
 3. Hover or click on visuals to reveal deeper insights.  
 4. Export snapshots or data (if permissions allow).  
@@ -47,7 +47,7 @@ This dashboard brings clarity with:
 
 ## 🤝 Collaboration
 
-- 📂 Source `.pbix` file available in `src/` (if included).  
+- 📂 Source `[.Pbix](https://drive.google.com/file/d/1Ai9u-Z6lGluPW-NHSjFN4tBcNOKLtHXa/view?usp=drive_link)` file available in `src/`
 - 🛠️ ETL & transformation steps documented in `/docs`.  
 - 🌈 Style guide ensures **consistent visuals & accessibility**.  
 - Contributions welcome — open a PR with improvements or ideas.  
@@ -71,7 +71,7 @@ Please respect data privacy & organizational compliance.
 
 ## 👨‍💻 Author
 
-Crafted with ❤️ and data storytelling skills by **[AJITH RAMESH](https://ajith-data-analyst.github.io/Portfolio/home.html)**  
+data storytelling skills by **[AJITH RAMESH](https://ajith-data-analyst.github.io/Portfolio/home.html)**  
 
 
 
