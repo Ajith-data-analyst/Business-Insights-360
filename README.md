@@ -13,13 +13,6 @@
     />
   </a> 
 
-   <a href="https://drive.google.com/drive/folders/1Wlr4IQ2pHFuXERYyFYWDrjTL9NLhhrT3?usp=drive_link" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/VIEW%20RAW%20DATA%20%7C%20DEMO-0A66C2?style=for-the-badge&logo=render&logoColor=white"
-      alt="View Raw Data"
-      height="55"
-    />
-  </a> 
 </p>
 
 
@@ -30,37 +23,26 @@ A configurable, interactive Power BI report delivering a 360° view of sales per
 
 This repository contains the project files, sample data schema, and supporting documentation needed to view, refresh and extend the dashboard.
 
-> Status: **Work in Progress / Proof of Concept** — update the files and `README` after major releases.
-
+<p align="center">
+ <a href="https://drive.google.com/drive/folders/1Wlr4IQ2pHFuXERYyFYWDrjTL9NLhhrT3?usp=drive_link" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/VIEW%20RAW%20DATA%20%7C%20DEMO-0A66C2?style=for-the-badge&logo=render&logoColor=white"
+      alt="View Raw Data"
+      height="55"
+    />
+  </a> 
+</p>
 ---
 
 ## Table of contents
 
-* [Demo / Screenshots](#demo--screenshots)
 * [Features](#features)
-* [Repository contents](#repository-contents)
-* [Prerequisites](#prerequisites)
-* [Installation & Open](#installation--open)
 * [Usage](#usage)
 * [Configuration & Data sources](#configuration--data-sources)
 * [Development notes](#development-notes)
 * [Contributing](#contributing)
 * [Roadmap](#roadmap)
-* [FAQ](#faq)
 * [License](#license)
-
----
-
-## Demo / Screenshots
-
-Screenshots show the core report pages (Executive overview, Forecast accuracy, Product performance, Unit economics and Landing page). Screenshots are stored in `/docs/screenshots/`.
-
-* `docs/screenshots/dashboard-landing.png` — Landing page and navigation.
-* `docs/screenshots/overview.png` — Executive KPI tiles and division/channel charts.
-* `docs/screenshots/forecast-accuracy.png` — Forecast accuracy and net error trend.
-* `docs/screenshots/product-performance.png` — Product and region performance matrix.
-
-*(Each image includes descriptive alt text for accessibility.)*
 
 ---
 
@@ -73,48 +55,6 @@ Screenshots show the core report pages (Executive overview, Forecast accuracy, P
 * Unit economics visualization (COGS, gross margin, operational expense waterfall).
 * Slicer-driven regional / market / customer / segment filters and quarter/year selectors.
 * Export-ready numbers and copy-paste friendly P&L table.
-
----
-
-## Repository contents
-
-```
-/ (root)
-├─ Business-Insights-360.pbix        # Power BI Desktop report file (primary deliverable)
-├─ data/                             # sample or extract CSVs used for building visuals
-│  ├─ sales.csv
-│  └─ customers.csv
-├─ docs/
-│  └─ screenshots/                   # exported dashboard screenshots (recommended)
-├─ README.md                         # this file
-└─ LICENSE                           # project license (add or update)
-```
-
-> If your repo differs, update this section so the README matches reality.
-
----
-
-## Prerequisites
-
-* **Power BI Desktop** (recommended) — match the version used to build the `.pbix` (if unknown, use latest stable Power BI Desktop).
-* Windows or a compatible OS that runs Power BI Desktop.
-* If using DirectQuery or database sources: credentials and network access to the data sources.
-
----
-
-## Installation & Open
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/<your-org>/business-insights-360.git
-cd business-insights-360
-```
-
-2. Open `Business-Insights-360.pbix` in Power BI Desktop.
-3. If prompted, update data source credentials (see Configuration section).
-
-All commands are copy-paste safe.
 
 ---
 
@@ -174,45 +114,46 @@ If you expect to modify the data model, open an issue first so we can coordinate
 
 ---
 
-## FAQ
-
-**Q:** Which Power BI version was used to build this report?
-**A:** The original build was done with Power BI Desktop (report author should add exact version). If unsure, open in the latest Power BI Desktop and update model where required.
-
-**Q:** Are the figures in USD or local currency?
-**A:** Values are shown as dollars and millions — verify currency in model if using alternate currency.
-
----
-
 ## License
-
-Specify the project license here and ensure a matching `LICENSE` file is added to the repository. Example placeholder:
 
 ```
 MIT License — see LICENSE file in this repository.
 ```
 
-If no license is intended, explicitly mark the code `Copyright (c) <year> <owner>` and add a `LICENSE` stating restrictions.
-
----
-
-## Professional checklist (before publishing)
-
-* [ ] A new user can open and view the report with only Power BI Desktop.
-* [ ] All commands in this README are copy-paste safe.
-* [ ] No private keys or credentials in the repo.
-* [ ] Screenshots are up to date and located in `/docs/screenshots/`.
-* [ ] LICENSE file present and matches README statement.
-
----
-
 ### Contact
 
-Ajith — maintainer
-Email / LinkedIn: update contact details in the repo's `CONTRIBUTING.md` if you want contributor outreach to be direct.
+<p align="center">
+ <!-- Contact & Immediate Reach -->
+<a href="mailto:ajithramesh2020@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-*Generated to follow the GitHub README Rules & Best Practices provided. Replace placeholders (license, exact Power BI version, contact email) before publishing.*
+<a href="tel:+919345264522">
+  <img src="https://img.shields.io/badge/Call%20Me-0A66C2?style=for-the-badge&logo=phone&logoColor=white"/>
+</a>
 
+<a href="https://wa.me/9345264522">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<!-- Professional Identity -->
+<a href="https://www.linkedin.com/in/ajith-ramesh-data-analyst/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ajith-data-analyst.github.io/Portfolio/Ajith_R_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<!-- Work Proof -->
+<a href="https://ajith-data-analyst.github.io/Portfolio/home.html">
+  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ajith-data-analyst">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 ---
 
 <p align="center">
