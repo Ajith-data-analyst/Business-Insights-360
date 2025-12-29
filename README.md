@@ -150,7 +150,7 @@ If you expect to modify the data model, open an issue first so we can coordinate
 
   
 <a href="https://github.com/Ajith-data-analyst/Business-Insights-360/blob/main/LICENSE.txt">
-  © 2025 Ajith Ramesh · MIT License
+  © 2025 Business Insights 360 · MIT License
 </a>
 
 </div>
