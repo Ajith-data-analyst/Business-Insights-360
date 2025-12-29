@@ -114,14 +114,6 @@ If you expect to modify the data model, open an issue first so we can coordinate
 
 ---
 
-## License
-
-```
-MIT License — see LICENSE file in this repository.
-```
-
-### Contact
-
 <p align="center">
  <!-- Contact & Immediate Reach -->
 <a href="mailto:ajithramesh2020@gmail.com">
@@ -154,7 +146,15 @@ MIT License — see LICENSE file in this repository.
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
----
+<div align="center">
+
+© 2025 Ajith Ramesh ·  
+<a href="./LICENSE">
+  MIT License
+</a>
+
+</div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
