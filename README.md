@@ -4,6 +4,18 @@
 
 ---
 
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNWU0M2Q5YTQtM2ZjNS00NmU0LTg1MzMtNzBhNjYxMzMzZDk1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://img.shields.io/badge/VIEW%20MY%20LIVE%20PROJECT%20%7C%20DEMO-0A66C2?style=for-the-badge&logo=render&logoColor=white"
+      alt="View My Live Expense Tracker Project (Live Demo)"
+      height="55"
+    />
+  </a>
+</p>
+
+
+
 ## Short description
 
 A configurable, interactive Power BI report delivering a 360° view of sales performance, forecast accuracy, product and customer performance, and unit economics. The report is built as a set of reusable visuals and tables that support drill-throughs, cross-filtering and slicer-driven analysis for Finance, Sales, Marketing, Supply Chain and Executive audiences.
