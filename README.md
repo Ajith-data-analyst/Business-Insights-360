@@ -204,3 +204,10 @@ Ajith — maintainer
 Email / LinkedIn: update contact details in the repo's `CONTRIBUTING.md` if you want contributor outreach to be direct.
 
 *Generated to follow the GitHub README Rules & Best Practices provided. Replace placeholders (license, exact Power BI version, contact email) before publishing.*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
