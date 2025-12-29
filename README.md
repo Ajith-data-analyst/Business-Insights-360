@@ -26,7 +26,7 @@ This repository contains the project files, sample data schema, and supporting d
 <p align="center">
  <a href="https://drive.google.com/drive/folders/1Wlr4IQ2pHFuXERYyFYWDrjTL9NLhhrT3?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://img.shields.io/badge/VIEW%20RAW%20DATA%20%7C%20DEMO-0A66C2?style=for-the-badge&logo=render&logoColor=white"
+      src="https://img.shields.io/badge/VIEW%20RAW%20DATA-0A66C2?style=for-the-badge&logo=render&logoColor=white"
       alt="View Raw Data"
       height="55"
     />
