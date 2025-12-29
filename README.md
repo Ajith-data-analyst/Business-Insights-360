@@ -148,9 +148,9 @@ If you expect to modify the data model, open an issue first so we can coordinate
 </p>
 <div align="center">
 
-© 2025 Ajith Ramesh ·  
-<a href="./LICENSE">
-  MIT License
+  
+<a href="https://github.com/Ajith-data-analyst/Business-Insights-360/blob/main/LICENSE.txt">
+  © 2025 Ajith Ramesh · MIT License
 </a>
 
 </div>
